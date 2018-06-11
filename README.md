@@ -1,6 +1,4 @@
-# atomic-exp
-
-Atomic assignment
+# Atomic assignment
 =======
 
 [![NPM](https://img.shields.io/npm/v/atomic-exp.svg)](https://www.npmjs.com/package/atomic-exp) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
